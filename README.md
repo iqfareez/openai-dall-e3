@@ -38,7 +38,7 @@
 | `A depiction of life in year 3040`                                          | ![Result4](https://i.imgur.com/XmXM9N6.png) |
 | `Profile picture with a man and cat in tech environment`                    | ![Result4](https://i.imgur.com/7oFaduA.png) |
 
-[Compare the results](https://github.com/iqfareez/openai-dalle2#example-results) with Dall•E 2. _Spoiler: Huge improvement!_
+Compare the results with previous model [Dall•E 2](https://github.com/iqfareez/openai-dalle2#example-results) and the latest model [Nano Banana](https://imgur.com/a/j1taeqV)!
 
 ## Documentation
 
